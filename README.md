@@ -20,7 +20,7 @@ A modern scientific calculator built with Python and Tkinter, featuring a clean 
 ## Installation
 
 1. Clone the repository:
-```git clone [your-repository-url]```
+```git clone https://github.com/HendoPlayz0/Scientific-CAS```
 
 2. Navigate to the project directory:
 ```cd nice-calculator```
